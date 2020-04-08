@@ -35,7 +35,7 @@ Growth Institute Inc.의 권리하에 크리에이티브 커먼스 저작자표�
 
 개정 1.1 2018-07-07 =============
 1 페이지 텍스트 업데이트: “Will the results be worth the cost of developing the algorithm and “feeding” it with data?”
-Bahaa Moukadam 님, 아래 제안 고맙습니다!
+Bahaa Moukadam 님, 제안 고맙습니다!
 * GGI ExO Tools Algorithms - FINAL 2018-07-07 R1-1 - fillable.pdf
 * GGI ExO Tools Algorithms - FINAL 2018-07-07 R1-1.pptx
 
